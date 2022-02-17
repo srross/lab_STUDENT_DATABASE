@@ -1,8 +1,8 @@
 ﻿/* Lab Name: STUDENT_DATABASE
  * Date: 02/17/2022
+ * Author: Sonia Ross
  * 
  * Description: Grand Circus Student Lookup Directory is searchable by Student Number or Student Name.
- * 
  * */
 
 string[] name = new string[3] { "MORPHEUS", "NEO", "SMITH" };
