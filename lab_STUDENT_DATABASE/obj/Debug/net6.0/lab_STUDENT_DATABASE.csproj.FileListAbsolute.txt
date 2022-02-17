@@ -1,0 +1,15 @@
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\bin\Debug\net6.0\lab_STUDENT_DATABASE.exe
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\bin\Debug\net6.0\lab_STUDENT_DATABASE.deps.json
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\bin\Debug\net6.0\lab_STUDENT_DATABASE.runtimeconfig.json
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\bin\Debug\net6.0\lab_STUDENT_DATABASE.dll
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\bin\Debug\net6.0\ref\lab_STUDENT_DATABASE.dll
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\bin\Debug\net6.0\lab_STUDENT_DATABASE.pdb
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\lab_STUDENT_DATABASE.csproj.AssemblyReference.cache
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\lab_STUDENT_DATABASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\lab_STUDENT_DATABASE.AssemblyInfoInputs.cache
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\lab_STUDENT_DATABASE.AssemblyInfo.cs
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\lab_STUDENT_DATABASE.csproj.CoreCompileInputs.cache
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\lab_STUDENT_DATABASE.dll
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\ref\lab_STUDENT_DATABASE.dll
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\lab_STUDENT_DATABASE.pdb
+C:\gc_repos\lab_STUDENT_DATABASE\lab_STUDENT_DATABASE\obj\Debug\net6.0\lab_STUDENT_DATABASE.genruntimeconfig.cache
